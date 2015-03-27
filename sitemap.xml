@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.snugglesstuff.net/community/index.html</loc>
+    <lastmod>2015-03-27T11:57:39.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.snugglesstuff.net/2015/03/25/Welcome-to-SnugglesStuff-1-5/</loc>
     <lastmod>2015-03-26T20:19:36.000Z</lastmod>
   </url>
@@ -12,12 +17,12 @@
   </url>
   
   <url>
-    <loc>http://www.snugglesstuff.net/Win3Y2K.html</loc>
+    <loc>http://www.snugglesstuff.net/test.html</loc>
     <lastmod>2015-03-26T19:33:00.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://www.snugglesstuff.net/test.html</loc>
+    <loc>http://www.snugglesstuff.net/Win3Y2K.html</loc>
     <lastmod>2015-03-26T19:33:00.000Z</lastmod>
   </url>
   
@@ -44,11 +49,6 @@
   <url>
     <loc>http://www.snugglesstuff.net/getreader.html</loc>
     <lastmod>2015-03-26T19:32:48.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.snugglesstuff.net/2014/02/27/status-bookmarlet/</loc>
-    <lastmod>2015-03-25T14:29:53.000Z</lastmod>
   </url>
   
   <url>
@@ -83,6 +83,11 @@
   
   <url>
     <loc>http://www.snugglesstuff.net/2014/01/01/announcing-scribblenauts-walkthrough/</loc>
+    <lastmod>2015-03-25T14:29:53.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.snugglesstuff.net/2014/02/27/status-bookmarlet/</loc>
     <lastmod>2015-03-25T14:29:53.000Z</lastmod>
   </url>
   
