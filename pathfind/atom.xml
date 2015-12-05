@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[SnugglesStuff]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.snugglesstuff.net/"/>
+  <updated>2015-03-29T14:11:13.000Z</updated>
+  <id>http://www.snugglesstuff.net/</id>
+  
+  <author>
+    <name><![CDATA[snuggles08]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Welcome to the new SnugglesStuff!]]></title>
+    <link href="http://www.snugglesstuff.net/2015/03/25/Welcome-to-SnugglesStuff-1-5/"/>
+    <id>http://www.snugglesstuff.net/2015/03/25/Welcome-to-SnugglesStuff-1-5/</id>
+    <published>2015-03-25T15:06:52.000Z</published>
+    <updated>2015-03-29T14:11:13.000Z</updated>
+    <content type="html"><![CDATA[<p>This is SnugglesStuff 1.5, a new version of SnugglesStuff, built to be amazing!</p>
+<h2 id="What’s_new?">What’s new?</h2><ul>
+<li>The engine (now using Hexo)</li>
+<li>The host (now using Github Pages, future apps by SnugglesStuff will be built using Heroku and Node.js)</li>
+<li>The layout (now using the Landscape theme)</li>
+</ul>
+<h2 id="Ok,_that_doesn’t_make_any_sense-_What_can_I_expect?">Ok, that doesn’t make any sense. What can <em>I</em> expect?</h2><ul>
+<li>Speed!</li>
+<li>A new look!</li>
+</ul>
+<h2 id="When_will_there_be_new_posts?">When will there be new posts?</h2><p><strong>MUCH, much</strong> more often. I will do posts at most daily, usually weekly, and at least monthly.</p>
+<h2 id="Closing">Closing</h2><p>This is the future of SnugglesStuff, and I hope you’re exicited!<sup>[1]</sup></p>
+<hr>
+<p><sup><strong>[1]</strong>. </sup><sub><sup>And yes, you can still expect perfect grammar.</sup></sub></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is SnugglesStuff 1.5, a new version of SnugglesStuff, built to be amazing!</p>
+<h2 id="What’s_new?">What’s new?</h2><ul>
+<li>The eng]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[NES REMIX series subreddit!]]></title>
+    <link href="http://www.snugglesstuff.net/2014/05/06/nes-remix-series-subreddit/"/>
+    <id>http://www.snugglesstuff.net/2014/05/06/nes-remix-series-subreddit/</id>
+    <published>2014-05-06T20:27:33.000Z</published>
+    <updated>2015-03-25T14:29:53.000Z</updated>
+    <content type="html"><![CDATA[<p>I made a NES REMIX series subreddit at <a href="http://reddit.com/r/nesremix" title="reddit.com/r/nesremix" target="_blank" rel="external">reddit.com/r/nesremix</a>!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>I made a NES REMIX series subreddit at <a href="http://reddit.com/r/nesremix" title="reddit.com/r/nesremix" target="_blank" rel="external]]>
+    </summary>
+    
+      <category term="Uncategorized" scheme="http://www.snugglesstuff.net/categories/Uncategorized/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Two updates]]></title>
+    <link href="http://www.snugglesstuff.net/2014/04/09/updates/"/>
+    <id>http://www.snugglesstuff.net/2014/04/09/updates/</id>
+    <published>2014-04-09T13:55:48.000Z</published>
+    <updated>2015-03-25T14:29:53.000Z</updated>
+    <content type="html"><![CDATA[<p>Good news: My computer works! Bad news: Forum will be wiped and temporarily down while I change it’s software.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Good news: My computer works! Bad news: Forum will be wiped and temporarily down while I change it’s software.</p>
+]]>
+    </summary>
+    
+      <category term="Uncategorized" scheme="http://www.snugglesstuff.net/categories/Uncategorized/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Site on hold]]></title>
+    <link href="http://www.snugglesstuff.net/2014/03/24/site-hold/"/>
+    <id>http://www.snugglesstuff.net/2014/03/24/site-hold/</id>
+    <published>2014-03-24T20:50:31.000Z</published>
+    <updated>2015-03-25T14:29:53.000Z</updated>
+    <content type="html"><![CDATA[<p>My computer is broken. Nothing else really to say.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>My computer is broken. Nothing else really to say.</p>
+]]>
+    </summary>
+    
+      <category term="Uncategorized" scheme="http://www.snugglesstuff.net/categories/Uncategorized/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Blog status bookmarklet]]></title>
+    <link href="http://www.snugglesstuff.net/2014/02/27/status-bookmarlet/"/>
+    <id>http://www.snugglesstuff.net/2014/02/27/status-bookmarlet/</id>
+    <published>2014-02-27T16:08:16.000Z</published>
+    <updated>2015-03-25T14:29:53.000Z</updated>
+    <content type="html"><![CDATA[<p>Go to the new page to get status updates at the click of a button!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Go to the new page to get status updates at the click of a button!</p>
+]]>
+    </summary>
+    
+      <category term="Uncategorized" scheme="http://www.snugglesstuff.net/categories/Uncategorized/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Flappy Bird For The 3DS (+ Site News)]]></title>
+    <link href="http://www.snugglesstuff.net/2014/02/25/flappy-bird-3ds-site-news/"/>
+    <id>http://www.snugglesstuff.net/2014/02/25/flappy-bird-3ds-site-news/</id>
+    <published>2014-02-25T19:07:38.000Z</published>
+    <updated>2015-03-25T14:29:53.000Z</updated>
+    <content type="html"><![CDATA[<p>First of all, sorry for not posting in a while. This was because I had nothing to post about and I lost some of my interest in SnugglesStuff. To make up, I’ll give you one of the best articles I can!</p>
+<h1 id="What_it_is:">What it is:</h1><p>Someone made the game Flappy Bird on the 3DS/DSi. For some people “Flappy Bird” is an “odd shade of blue”; according to the creator, they didn’t set it up properly.</p>
+<h1 id="What_is_Flappy_Bird?">What is Flappy Bird?</h1><p>Flappy Bird is an (extremely annoying) game. To play you tap the screen to jump through pipes. If you touch a pipe you lose. You get one point for every pipe you pass through.</p>
+<h1 id="The_controls:">The controls:</h1><p>The controls are pretty good. You either tap the screen or press A to jump.</p>
+<h1 id="How_it_works:">How it works:</h1><p>It uses an app called “Petit Computer” by SmileBoom to run. Petit Computer allows you to run and write programs in the language “SmileBasic”.</p>
+<h1 id="How_to_get_it?">How to get it?</h1><ol>
+<li>Go <a href="http://img2.wikia.nocookie.net/__cb20140212022026/petitcomputer/images/thumb/b/b3/Flappy_Bird_QR.png/512px-Flappy_Bird_QR.png" target="_blank" rel="external">here</a> (<a href="http://img2.wikia.nocookie.net/__cb20140212022026/petitcomputer/images/thumb/b/b3/Flappy_Bird_QR.png/512px-Flappy_Bird_QR.png" target="_blank" rel="external">http://img2.wikia.nocookie.net/__cb20140212022026/petitcomputer/images/thumb/b/b3/Flappy_Bird_QR.png/512px-Flappy_Bird_QR.png</a>) on your computer.</li>
+<li>Open Petit Computer on your 3DS/DSi.</li>
+<li>Tap “File Management”.</li>
+<li>Tap “Read QR Code”.</li>
+<li>Line the red box up with the boxes until you have scanned every one.</li>
+<li>Tap “Back” if it is on-screen.</li>
+<li>Tap “View gallery”.</li>
+<li>Tap “FLAPBIRD”.</li>
+</ol>
+<h1 id="How_to_run_it:">How to run it:</h1><ol>
+<li>Tap “Back” if it is on-screen.</li>
+<li>Tap “View gallery”.</li>
+<li>Tap “FLAPBIRD”.</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>First of all, sorry for not posting in a while. This was because I had nothing to post about and I lost some of my interest in SnugglesSt]]>
+    </summary>
+    
+      <category term="Flappy Bird" scheme="http://www.snugglesstuff.net/tags/Flappy-Bird/"/>
+    
+      <category term="Uncategorized" scheme="http://www.snugglesstuff.net/categories/Uncategorized/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Processing.js Test]]></title>
+    <link href="http://www.snugglesstuff.net/2014/01/19/processing-js-test/"/>
+    <id>http://www.snugglesstuff.net/2014/01/19/processing-js-test/</id>
+    <published>2014-01-19T20:15:14.000Z</published>
+    <updated>2015-03-26T19:40:29.000Z</updated>
+    <content type="html"><![CDATA[<p><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/processing.js/1.4.8/processing.min.js"><br></script><br>Comment saying if you see a red circle below here or not:</p>
+<p><script type="text/processing" data-processing-target="processing-canvas"><br>void setup() {<br>size(400, 50);<br>background(255, 255, 255);<br>fill(255, 0, 0);<br>noStroke();<br>ellipse(200, 25, 50, 50);<br>}<br></script></p>
+<canvas id="processing-canvas"> </canvas>]]></content>
+    <summary type="html">
+    <![CDATA[<p><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/processing.js/1.4.8/processing.min.js"><br></script><br>Commen]]>
+    </summary>
+    
+      <category term="Uncategorized" scheme="http://www.snugglesstuff.net/categories/Uncategorized/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[New CAPTCHA Added]]></title>
+    <link href="http://www.snugglesstuff.net/2014/01/14/new-captcha-added/"/>
+    <id>http://www.snugglesstuff.net/2014/01/14/new-captcha-added/</id>
+    <published>2014-01-14T21:51:47.000Z</published>
+    <updated>2015-03-25T14:29:53.000Z</updated>
+    <content type="html"><![CDATA[<p>I have added a CAPTCHA called FunCAPTCHA to the website; just a little update.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>I have added a CAPTCHA called FunCAPTCHA to the website; just a little update.</p>
+]]>
+    </summary>
+    
+      <category term="CAPTCHA" scheme="http://www.snugglesstuff.net/tags/CAPTCHA/"/>
+    
+      <category term="Update" scheme="http://www.snugglesstuff.net/tags/Update/"/>
+    
+      <category term="News" scheme="http://www.snugglesstuff.net/categories/News/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Aero Glass in Windows 8.1]]></title>
+    <link href="http://www.snugglesstuff.net/2014/01/10/aero-glass-in-windows-8-1/"/>
+    <id>http://www.snugglesstuff.net/2014/01/10/aero-glass-in-windows-8-1/</id>
+    <published>2014-01-10T22:45:03.000Z</published>
+    <updated>2015-03-25T14:29:53.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://glass8.berlios.de/download.html" title="Aero Glass" target="_blank" rel="external">Aero Glass in Windows 8.1.</a> It’s right here. And there is finally an installer. It’s a small detail but I miss it. A lot. (If you are wondering what Aero Glass is, it is some transparency on window borders.)<br><a id="more"></a></p>
+<p>OK. So here is before:<a href="http://www.snugglesstuff.net/community/wp-content/uploads/2014/01/Aero-Glass_Before.png" target="_blank" rel="external"><img src="http://www.snugglesstuff.net/community/wp-content/uploads/2014/01/Aero-Glass_Before.png" alt="Aero Glass_Before"></a></p>
+<p>&nbsp;</p>
+<p>And here is how to do it:</p>
+<p>NOTE: You need 7-zip or winRAR for this tutorial.</p>
+<ol>
+<li>Right click on your Start button.</li>
+<li>Click System.</li>
+<li>Look under the category labeled System.</li>
+<li>Look at System type.</li>
+<li>If it says “64-bit Operating System” then remember 64-bit otherwise remember 32-bit.</li>
+<li>Close the window.</li>
+<li><a href="http://glass8.berlios.de/download.html" title="Go Here." target="_blank" rel="external">Go Here.</a></li>
+<li>Look under <strong>Aero Glass for Win8.1 RTM Pre-release</strong>.</li>
+<li>Click 32-bit Windows or 64-bit Windows depending on what you remember.</li>
+<li>Wait five seconds.</li>
+<li>Open the file.</li>
+<li>Extract it to “C:\AeroGlass”.</li>
+<li>Open “C:\AeroGlass”.</li>
+<li>Run “install.bat” as administrator.</li>
+<li>Reboot.</li>
+<li>Wait.</li>
+<li>Click “Yes”.</li>
+<li>See your Aero Glass in Windows 8.1!<br>After you do this:<a href="http://www.snugglesstuff.net/community/wp-content/uploads/2014/01/Aero-Glass_After.png" target="_blank" rel="external"><img src="http://www.snugglesstuff.net/community/wp-content/uploads/2014/01/Aero-Glass_After.png" alt="Aero Glass_After"></a></li>
+</ol>
+<p>So… There you go. Aero Glass in Windows 8.</p>
+<p><strong>UPDATE:</strong> Sometimes it does not work but this is rare.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="http://glass8.berlios.de/download.html" title="Aero Glass">Aero Glass in Windows 8.1.</a> It’s right here. And there is finally an installer. It’s a small detail but I miss it. A lot. (If you are wondering what Aero Glass is, it is some transparency on window borders.)<br>]]>
+    
+    </summary>
+    
+      <category term="Aero Glass" scheme="http://www.snugglesstuff.net/tags/Aero-Glass/"/>
+    
+      <category term="Operating System" scheme="http://www.snugglesstuff.net/tags/Operating-System/"/>
+    
+      <category term="RTM" scheme="http://www.snugglesstuff.net/tags/RTM/"/>
+    
+      <category term="Operating System" scheme="http://www.snugglesstuff.net/categories/Operating-System/"/>
+    
+      <category term="Uncategorized" scheme="http://www.snugglesstuff.net/categories/Operating-System/Uncategorized/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[My Logo]]></title>
+    <link href="http://www.snugglesstuff.net/2014/01/02/my-logo/"/>
+    <id>http://www.snugglesstuff.net/2014/01/02/my-logo/</id>
+    <published>2014-01-02T23:22:49.000Z</published>
+    <updated>2015-03-25T14:29:53.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://www.snugglesstuff.net/community/wp-content/uploads/2014/01/3524713.gif" alt="My Logo"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://www.snugglesstuff.net/community/wp-content/uploads/2014/01/3524713.gif" alt="My Logo"></p>
+]]>
+    </summary>
+    
+      <category term="Uncategorized" scheme="http://www.snugglesstuff.net/categories/Uncategorized/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Announcing Scribblenauts Walkthrough!]]></title>
+    <link href="http://www.snugglesstuff.net/2014/01/01/announcing-scribblenauts-walkthrough/"/>
+    <id>http://www.snugglesstuff.net/2014/01/01/announcing-scribblenauts-walkthrough/</id>
+    <published>2014-01-01T22:25:48.000Z</published>
+    <updated>2015-03-25T14:29:53.000Z</updated>
+    <content type="html"><![CDATA[<p>Sometime within today I will start a Scribblenauts walkthrough on the forum!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Sometime within today I will start a Scribblenauts walkthrough on the forum!</p>
+]]>
+    </summary>
+    
+      <category term="Uncategorized" scheme="http://www.snugglesstuff.net/categories/Uncategorized/"/>
+    
+  </entry>
+  
+</feed>
